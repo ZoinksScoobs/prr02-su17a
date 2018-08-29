@@ -3,3 +3,4 @@ echo Eyy that's pretty kewl
 pause
 0110011;
 Yes, very nice;
+Du är väldigt väldigt söt<3;
