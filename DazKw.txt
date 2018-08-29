@@ -1,0 +1,4 @@
+@echo off
+echo Eyy that's pretty kewl
+pause
+0110011;
